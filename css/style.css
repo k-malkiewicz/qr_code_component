@@ -23,7 +23,7 @@ body {
 }
 .qr_card_img {
   width: 100%;
-  border-radius: 1rem;
+  border-radius: 0.625rem;
 }
 .qr_card_header {
   color: hsl(218, 44%, 22%);
